@@ -10,7 +10,7 @@ const Feature4 = () => {
                 <div className="flex flex-wrap -m-4 mb-5 justify-center items-center space-y-8 space-x-5">
                     <div></div>
                     <p className="h-full flex flex-col  text-2xl font-normal max-w-44 w-[200px]">
-                        Full family’s cashless cards in one place
+                        Full family`&apos;`s cashless cards in one place
                     </p>
                     <p className="h-full flex flex-col  text-2xl font-normal max-w-44 w-[200px]">
                         See hospital list in your network

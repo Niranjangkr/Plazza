@@ -22,7 +22,7 @@ const Feature = () => {
                     </div>
                     <div className="md:p-4 p-3 lg:w-1/4 md:w-1/2 ">
                         <p className="h-full flex flex-col items-center md:text-2xl sm:text-lg text-base font-medium">
-                            Recommend and port insurance if there's a need
+                            Recommend and port insurance if there&apos;s a need
                         </p>
                     </div>
 
